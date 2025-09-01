@@ -46,6 +46,15 @@ class Techifybots:
             print("Error in getAllUsers:", e)
             return []
 
+    async def delete_user(self, user_id: int) -> bool:
+        try:
+            result = await self.users.delete_one({"user_id": user_id})
+            self.cache.pop(user_id, None)
+            return result.deleted_count > 0
+        except Exception as e:
+            print("Error in delete_user: ", e)
+            return False
+
     async def ban_user(self, user_id: int, reason: str = None) -> bool:
         try:
             ban = {"user_id": user_id, "reason": reason}
