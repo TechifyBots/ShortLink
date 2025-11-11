@@ -5,7 +5,7 @@ class text(object):
 
 𝘊𝘭𝘪𝘤𝘬 𝘵𝘩𝘦 𝘏𝘦𝘭𝘱 𝘣𝘶𝘵𝘵𝘰𝘯 𝘣𝘦𝘭𝘰𝘸 𝘵𝘰 𝘨𝘦𝘵 𝘮𝘰𝘳𝘦 𝘪𝘯𝘧𝘰.
 
-<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></b></blockquote>"""
+<blockquote><b>‣ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyBots'>ʀᴀʜᴜʟ</a></b></blockquote>"""
 
   LOG = """👁️‍🗨️ 𝘜𝘚𝘌𝘙 𝘋𝘌𝘛𝘈𝘐𝘓𝘚
 
