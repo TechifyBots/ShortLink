@@ -62,7 +62,7 @@ tiny - To short url using tiny
 
 ### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
 
-### 🥳 [DEVELOPER](https://www.instagram.com/ImRahulDhankhar/)
+### 🥳 [DEVELOPER](https://www.instagram.com/ImRahulDhankhar)
 
 ### 📌 NOTE
 
